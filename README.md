@@ -5,4 +5,4 @@
 ***
 
 This repository contains the lab files and other resources for the free Microsoft course *Implementing Real-Time Analysis with Hadoop in HDInsight*.
-To learn how to use HBase, Storm, and Spark in Azure HDInsight, sign up for this course on [edX](https://www.edx.org/course/implementing-real-time-analytics-hadoop-microsoft-dat202-2x) or [Microsoft Virtual Academy](https://mva.microsoft.com/en-us/training-courses/data-science-and-machine-learning-essentials-14100?l=UyhoTxWdB_3505050723)
+To learn how to use HBase, Storm, and Spark in Azure HDInsight, sign up for this course on [edX](https://www.edx.org/course/implementing-real-time-analytics-hadoop-microsoft-dat202-2x).
